@@ -1,0 +1,1 @@
+SELECT category_name, description from categories;

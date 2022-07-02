@@ -1,0 +1,1 @@
+select p.product_id, p.product_name from products p where lower(p.product_name) like '%queso%'
